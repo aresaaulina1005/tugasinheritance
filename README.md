@@ -1,0 +1,2 @@
+# tugasinheritance
+Pewarisan
